@@ -28,9 +28,6 @@ It enables business decision-makers to track growth, identify trends, and evalua
 
 ---
 
-## 🖼 Dashboard Preview
-[Click Here to Download](./Sales & Profit Performance Dashboard — ExcelProject.xlsx)
----
 
 ## 🖼 Dashboard Preview  
 ![Sales Dashboard Screenshot](./Dashboard-Screenshot-Excel.png)
@@ -38,7 +35,8 @@ It enables business decision-makers to track growth, identify trends, and evalua
 ---
 
 ## 📥 Download Excel File  
-🔗 [Click to Download Dashboard](./Sales-Profit-Performance-Dashboard.xlsx)
+🔗 [Click to Download Dashboard](./Sales%20&%20Profit%20Performance%20Dashboard%20%E2%80%94%20ExcelProject.xlsx)
+
 
 
 ---
