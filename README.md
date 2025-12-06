@@ -31,10 +31,8 @@ This dashboard allows exploration and insight through:
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](./Dashboard-Screenshot-Excel.png)
+![Sales Dashboard Screenshot](./Dashboard-Screenshot-Excel.png)
 
-
-> If image doesn’t load due to spacing in filename, rename to `Dashboard-Screenshot-Excel.png` and update the link.
 
 ---
 
