@@ -59,16 +59,6 @@ It enables business decision-makers to track growth, identify trends, and evalua
 
 ---
 
-## 🔗 Update Links After Publishing
-
-| Type | Link |
-|------|------|
-| 🔗 GitHub Repository | https://github.com/your-repository-link |
-| 📥 Dashboard (.xlsx) |Sales & Profit Performance Dashboard — ExcelProject.xlsx|
-| 🖼 Screenshot Preview | https://github.com/.../Dashboard-Screenshot-Excel.png |
-
----
-
 ### 📌 Author  
 
 **Sunil Kumar Reddy Punnati**
